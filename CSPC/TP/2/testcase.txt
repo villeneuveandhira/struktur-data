@@ -1,0 +1,26 @@
+Contoh Masukan 1:
+//
+MieInstan 21 30121
+Biskuit 5 40423
+Pensil 20 30021
+JasHujan 28 10998
+AirMineral 15 78890
+--stop--
+//
+Contoh Masukan 2:
+//
+IceCream 30 23445
+Handuk 5 11808
+MaskerMedis 20 48561
+Inhaler 20 98011
+Kecap 15 10012
+--stop--
+//
+Contoh Masukan 3:
+//
+Gula 27 30045
+Garam 13 10228
+Tissue 22 78665
+Plastik 4 30098
+--stop--
+//

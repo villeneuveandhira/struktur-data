@@ -1,0 +1,31 @@
+Contoh Masukan:
+3
+5000 OrekTempe 1000
+6000 Mustofa 1500
+4000 Perkedel 2000
+
+Contoh Keluran:
+Wishlist Makanan Pedas:
+===================
+1. OrekTempe
+2. Perkedel
+
+Wishlist Makanan Manis:
+===================
+1. Mustofa
+
+------------------------
+Contoh Masukan 2:
+2
+5000 OrekTempe 1000
+4000 Perkedel 2000
+
+Contoh Keluaran 2:
+Wishlist Makanan Pedas:
+===================
+1. OrekTempe
+2. Perkedel
+
+Wishlist Makanan Manis:
+===================
+NDAK SEHAT!
