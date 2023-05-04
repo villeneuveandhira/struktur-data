@@ -1,0 +1,15 @@
+3
+abdi 3
+cumi 200
+keju 100
+asparagus 100
+sen 2
+udang 300
+kailan 100
+alvian 3
+keju 200
+tepung 300
+gula 200
+2
+abdi cumi sen udang
+alvian keju sen kailan

@@ -1,0 +1,20 @@
+6
+rudi C12 Bandung1
+diana C17 Bandung2
+gea C88 Cimahi1
+dena C99 Cimahi1
+heru C23 Bandung2
+hadi C22 Bandung1
+3
+Bandung1
+Bandung2
+Cimahi1
+
+4
+rudi C12 Bandung1
+diana C17 Bandung2
+heru C23 Bandung2
+hadi C22 Bandung1
+2
+Bandung1
+Bandung2
